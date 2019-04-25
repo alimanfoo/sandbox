@@ -27,4 +27,7 @@ import numpy as np
 x = np.arange(100)
 plt.plot(x)
 
+# %% [markdown]
+# This is a **markdown** cell!
+
 # %%
